@@ -1,0 +1,114 @@
+*{
+ padding: 0;
+ margin: 0;
+ border-spacing: 0;
+}
+
+.internal-background{
+  position: relative;
+  top: 10%;
+  left: 2%;
+  background-color:#15253E ;
+  width: 95%;
+  height: 45em;
+  border-radius: 10px;
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+#for-image{
+  position: relative;
+  top: 12%;
+
+}
+#image-equilibrium{
+  position: relative;
+  left:5% ;
+  width: 90%;
+  border-right: 10px;
+}
+.parra-1{
+  position: relative;
+  top: 16%;
+  left: 12%;
+  width: 80%;
+  
+}
+#h1-1{
+  font-family:Arial ;
+ color:#fff;
+ text-align: center;
+ word-spacing:4%;
+ font-size: 150%;
+ position: relative;
+ top: 17%;
+  
+ ​    ​font-family​:​ Outfit​,​ sans-serif;
+}
+#parra-1{
+  color:#8AABD9 ;
+  margin-top: 8%;
+  font-family: Arial;
+  font-size: 105%;
+}
+.whole-background{
+  width: 100%;
+  height:55em;
+  background-color: #0D182A;
+}
+#h2-1{
+  position: relative;
+  top: 19%;
+  padding: 5%;
+  color:#00FFF9 ;
+  font-size: 130%;
+}
+#ETH-2{
+  color:#8AABD9 ;
+  position: relative;
+  top: 11%;
+  text-align: right;
+  padding: 5%;
+  font-size: 110%;
+}
+#profile-image{
+width: 18%;
+  border-radius: 50%;
+  padding: 5%;
+}
+.profile{
+  position: relative;
+  top: 13%;
+  color:#8AABD9 ;
+  font-size: 110%;
+}
+.creation-div{
+  color:#8AABD9 ;
+  font-size: 110%;
+  width: 100%;
+  position: relative;
+  top: 3%;
+text-align: center;
+font-family: Arial;
+}
+#Jules{
+  color: white;
+  font-size: 130%;
+}
+@media screen and (min-width: 480px) {
+   .whole-background{width: 100%;
+  height:125em;
+  background-color: #0D182A;
+   
+  }
+}
+@media screen and (min-width: 480px) {
+   .internal-background{position: relative;
+  top: 10%;
+  left: 2%;
+  background-color:#15253E ;
+  width: 95%;
+  height: 103em;
+  border-radius: 10px;
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+   
+  }
+}
